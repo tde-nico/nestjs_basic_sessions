@@ -1,5 +1,20 @@
 # nestjs_basic_sessions
 
+<!--
+#field
+Web
+
+#groups
+Backend
+
+#languages
+TypeScript
+
+#frames and libs
+NestJS
+
+-->
+
 A basic implementation for sessions with nestjs
 
 <p align="center">
